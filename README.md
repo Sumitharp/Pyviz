@@ -10,7 +10,7 @@ This is an exercise to show the trends in the SFO Housing Market.
 
 ![Interactive chart of the most expensive neighborhoods](Images/SFO.png)
 
-*Interactive chart is available in the notebook. The size of the bubbles in the charts show sale price oer sqft (bigger bubble higher per sqft price). And the lighter color shows the higher rent for the properties*
+*Interactive chart is available in the notebook. The size of the bubbles in the charts show sale price per sqft (bigger bubble higher per sqft price). And the lighter color shows the higher rent for the properties*
 
 
 ### **Neighborhood Analysis:** 
